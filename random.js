@@ -1,2 +1,2 @@
 console.log('random');
-console.log('version_4');
+console.log('version_5');
